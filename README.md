@@ -50,6 +50,7 @@ My expertise includes:
 | Project | Description |
 |----------|-------------|
 | [SQL Server Portfolio](https://github.com/lachungo/sql-server-portfolio) | Central portfolio showcasing architecture, automation, observability, and cloud database projects |
+| [SQL Server VLDB Maintenance Orchestration Platform](https://github.com/lachungo/sql-server-vldb-index-maintenance-framework) | Queue-based maintenance orchestration platform for multi-terabyte SQL Server environments featuring AG-aware execution, resumable maintenance windows, observability, and recovery workflows |
 | [SQL Server Agentic AI DBA Assessment Toolkit](https://github.com/lachungo/SQL-Server-Agentic-AI-DBA-Assessment-Toolkit) | AI-powered SQL Server assessment, health checks, security reviews, and executive reporting |
 | [SQL Server Observability & DBA SRE Toolkit](https://github.com/lachungo/SQL-Server-Observability-and-DBA-SRE-Toolkit) | Enterprise monitoring, alerting, Always On observability, RCA, and operational intelligence |
 | [SQL Server CPU Saturation RCA](https://github.com/lachungo/sql-server-cpu-saturation-rca) | Advanced CPU troubleshooting, wait analysis, workload correlation, and performance diagnostics |
