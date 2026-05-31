@@ -47,38 +47,19 @@ My expertise includes:
 
 ## Featured Projects
 
-### SQL Server Portfolio
-
-https://github.com/lachungo/sql-server-portfolio
-
-### SQL Server Agentic AI DBA Assessment Toolkit
-
-https://github.com/lachungo/SQL-Server-Agentic-AI-DBA-Assessment-Toolkit
-
-### SQL Server Observability & DBA SRE Toolkit
-
-https://github.com/lachungo/SQL-Server-Observability-and-DBA-SRE-Toolkit
-
-### SQL Server CPU Saturation RCA
-
-https://github.com/lachungo/sql-server-cpu-saturation-rca
-
-### SQL IT Tech Solutions Website
-
-https://github.com/lachungo/sql-it-techsolutions-website
+- 🔹 SQL Server Portfolio — https://github.com/lachungo/sql-server-portfolio
+- 🔹 SQL Server Agentic AI DBA Assessment Toolkit — https://github.com/lachungo/SQL-Server-Agentic-AI-DBA-Assessment-Toolkit
+- 🔹 SQL Server Observability & DBA SRE Toolkit — https://github.com/lachungo/SQL-Server-Observability-and-DBA-SRE-Toolkit
+- 🔹 SQL Server CPU Saturation RCA — https://github.com/lachungo/sql-server-cpu-saturation-rca
+- 🔹 SQL IT Tech Solutions Website — https://github.com/lachungo/sql-it-techsolutions-website
 
 ---
 
 ## Professional Links
 
-🌐 Website  
-https://sql-it-techsolutions.com
-
-💼 LinkedIn  
-https://www.linkedin.com/in/louis-achungo
-
-📂 GitHub Portfolio  
-https://github.com/lachungo/sql-server-portfolio
+🌐 Website: https://sql-it-techsolutions.com  
+💼 LinkedIn: https://www.linkedin.com/in/louis-achungo  
+📂 GitHub Portfolio: https://github.com/lachungo/sql-server-portfolio
 
 ---
 
