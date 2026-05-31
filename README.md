@@ -47,19 +47,24 @@ My expertise includes:
 
 ## Featured Projects
 
-- 🔹 SQL Server Portfolio — https://github.com/lachungo/sql-server-portfolio
-- 🔹 SQL Server Agentic AI DBA Assessment Toolkit — https://github.com/lachungo/SQL-Server-Agentic-AI-DBA-Assessment-Toolkit
-- 🔹 SQL Server Observability & DBA SRE Toolkit — https://github.com/lachungo/SQL-Server-Observability-and-DBA-SRE-Toolkit
-- 🔹 SQL Server CPU Saturation RCA — https://github.com/lachungo/sql-server-cpu-saturation-rca
-- 🔹 SQL IT Tech Solutions Website — https://github.com/lachungo/sql-it-techsolutions-website
+| Project | Description |
+|----------|-------------|
+| [SQL Server Portfolio](https://github.com/lachungo/sql-server-portfolio) | Central portfolio showcasing architecture, automation, observability, and cloud database projects |
+| [SQL Server Agentic AI DBA Assessment Toolkit](https://github.com/lachungo/SQL-Server-Agentic-AI-DBA-Assessment-Toolkit) | AI-powered SQL Server assessment, health checks, security reviews, and executive reporting |
+| [SQL Server Observability & DBA SRE Toolkit](https://github.com/lachungo/SQL-Server-Observability-and-DBA-SRE-Toolkit) | Enterprise monitoring, alerting, Always On observability, RCA, and operational intelligence |
+| [SQL Server CPU Saturation RCA](https://github.com/lachungo/sql-server-cpu-saturation-rca) | Advanced CPU troubleshooting, wait analysis, workload correlation, and performance diagnostics |
+| [SQL IT Tech Solutions Website](https://github.com/lachungo/sql-it-techsolutions-website) | Professional consulting, architecture, cloud database, and portfolio website |
 
 ---
 
 ## Professional Links
 
-🌐 Website: https://sql-it-techsolutions.com  
-💼 LinkedIn: https://www.linkedin.com/in/louis-achungo  
-📂 GitHub Portfolio: https://github.com/lachungo/sql-server-portfolio
+| Platform | Link |
+|----------|------|
+| 🌐 Website | https://sql-it-techsolutions.com |
+| 💼 LinkedIn | https://www.linkedin.com/in/louis-achungo |
+| 📂 GitHub Portfolio | https://github.com/lachungo/sql-server-portfolio |
+| 🏗️ GitHub Profile | https://github.com/lachungo |
 
 ---
 
