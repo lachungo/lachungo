@@ -1,16 +1,91 @@
-## Hi there 👋
+# Hi, I'm Louis Achungo
 
-<!--
-**lachungo/lachungo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Principal SQL Architect | Azure SQL | SQL Server | Cloud Database Architect
 
-Here are some ideas to get you started:
+Enterprise SQL Server Architecture • Azure Data Platforms • High Availability • Performance Engineering • Observability • DBA Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+I am a Principal SQL Architect with 24+ years of experience designing, administering, optimizing, and modernizing enterprise database platforms across on-premises, cloud, and hybrid environments.
+
+My expertise includes:
+
+- SQL Server 2016 / 2019 / 2022
+- Azure SQL Managed Instance
+- Azure SQL Database
+- Always On Availability Groups
+- Disaster Recovery & Business Continuity
+- Performance Engineering
+- Observability & Monitoring
+- DBA Automation
+- Cloud Database Modernization
+
+---
+
+## Certifications
+
+### Cloud & Modern Data Platforms
+
+- Microsoft Azure Fundamentals (AZ-900)
+- Microsoft Azure Database Administrator Associate (DP-300)
+- AWS Certified Cloud Practitioner (CLF-C02)
+- Snowflake Administration (COF-C02)
+- Mastering SQL Server on AWS Redshift Associate
+
+### Microsoft SQL Server Certifications
+
+- MCITP – SQL Server DBA
+- MCSE – SQL Server DBA
+- MCSA – SQL Server DBA
+- MCDBA – SQL Server DBA
+
+---
+
+## Featured Projects
+
+### SQL Server Portfolio
+
+https://github.com/lachungo/sql-server-portfolio
+
+### SQL Server Agentic AI DBA Assessment Toolkit
+
+https://github.com/lachungo/SQL-Server-Agentic-AI-DBA-Assessment-Toolkit
+
+### SQL Server Observability & DBA SRE Toolkit
+
+https://github.com/lachungo/SQL-Server-Observability-and-DBA-SRE-Toolkit
+
+### SQL Server CPU Saturation RCA
+
+https://github.com/lachungo/sql-server-cpu-saturation-rca
+
+### SQL IT Tech Solutions Website
+
+https://github.com/lachungo/sql-it-techsolutions-website
+
+---
+
+## Professional Links
+
+🌐 Website  
+https://sql-it-techsolutions.com
+
+💼 LinkedIn  
+https://www.linkedin.com/in/louis-achungo
+
+📂 GitHub Portfolio  
+https://github.com/lachungo/sql-server-portfolio
+
+---
+
+## Modern Database Engineering
+
+Modern database platforms should be reliable, observable, automated, secure, and scalable.
+
+My focus is helping organizations transform traditional database operations into modern, resilient, cloud-ready data platforms through architecture, automation, performance engineering, and operational excellence.
+
+---
+
+*"Building reliable, observable, and scalable database platforms through architecture, automation, and operational excellence."*
