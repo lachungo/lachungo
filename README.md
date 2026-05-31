@@ -1,8 +1,10 @@
 # Hi, I'm Louis Achungo
 
-# Principal SQL Architect | Azure SQL | SQL Server | Cloud Database Architect | Performance Engineering | HA/DR | DBA Automation
+### Principal SQL Architect | Cloud Database Architect
 
-Enterprise SQL Server Architecture • Azure Data Platforms • High Availability • Performance Engineering • Observability • DBA Automation
+*Azure SQL • SQL Server • Performance Engineering • HA/DR • DBA Automation*
+
+Enterprise database architect specializing in modernizing, optimizing, automating, and securing mission-critical SQL Server and Azure SQL platforms.
 
 ---
 
