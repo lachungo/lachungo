@@ -2,9 +2,9 @@
 
 ### Principal SQL Architect | Cloud Database Architect
 
-*Azure SQL • SQL Server • Performance Engineering • HA/DR • DBA Automation*
+*Azure SQL • SQL Server • High Availability • Performance Engineering • Observability • DBA Automation*
 
-Enterprise database architect specializing in modernizing, optimizing, automating, and securing mission-critical SQL Server and Azure SQL platforms.
+Designing reliable, scalable, and highly observable database platforms for enterprise and cloud environments.
 
 ---
 
