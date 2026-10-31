@@ -10,7 +10,7 @@ Designing reliable, scalable, and highly observable database platforms for enter
 
 ### About Me
 
-I am a Principal SQL Architect with 24+ years of experience designing, administering, optimizing, and modernizing enterprise database platforms across on-premises, cloud, and hybrid environments.
+I am a Principal SQL Architect with 25+ years of experience designing, administering, optimizing, and modernizing enterprise database platforms across on-premises, cloud, and hybrid environments.
 
 My expertise includes:
 
