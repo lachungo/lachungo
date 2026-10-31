@@ -22,14 +22,15 @@ My work focuses on turning complex database operations into **reliable, observab
 
 ### Core Specialties
 
-- SQL Server architecture, administration, and performance engineering
-- Query Store tuning, plan stability, and parameter-sensitivity analysis
-- Always On Availability Groups, HA/DR, and business continuity
+- SQL Server Architecture, Administration, and Performance Engineering
+- Query Store Tuning, Plan Stability, and Parameter-Sensitivity Analysis
+- Always On Availability Groups, HA/DR, and Business Continuity
 - Azure SQL Database, Azure SQL Managed Instance, and AWS RDS
-- Extended Events, execution-plan analysis, and root-cause investigation
-- VLDB maintenance orchestration and resumable operations
-- Database observability, SRE practices, and operational automation
+- Extended Events, Execution-Plan Analysis, and Root-Cause Analysis Investigation
+- VLDB Index Maintenance (Rebuild & Reorg) Orchestration and Resumable Operations
+- Database Observability, SRE practices, and Operational Automation
 - AI-assisted database assessment and diagnostic engineering
+- AI-Driven Database Automation, Diagnostic Reasoning, and Evidence-Backed Root-Cause Analysis
 
 ---
 
