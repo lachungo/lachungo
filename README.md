@@ -1,80 +1,115 @@
-# Hi, I'm Louis Achungo
+<div align="center">
 
-### PPrincipal SQL Server Architect | Senior SQL Server DBA | Performance Engineering | HA/DR | Azure SQL & AWS | AI-Driven Database Automation
+# Louis Achungo
 
-*Azure SQL • AWS RDS • SQL Server • High Availability • Performance Engineering • Observability • DBA AI Automation*
+### Principal SQL Server Architect · Senior SQL Server DBA · Database Reliability Engineer
 
-Designing reliable, scalable, and highly observable database platforms for enterprise and cloud environments.
+**SQL Server Performance Engineering · Azure SQL & AWS RDS · HA/DR · Observability · AI-Driven Database Automation**
+
+[Portfolio](https://sql-it-techsolutions.com/) ·
+[LinkedIn](https://www.linkedin.com/in/louis-achungo/) ·
+[Email](mailto:achungolm@gmail.com)
+
+</div>
 
 ---
 
-### About Me
+## Engineering Profile
 
-I am a Principal SQL Architect with 25+ years of experience designing, administering, optimizing, and modernizing enterprise database platforms across on-premises, cloud, and hybrid environments.
+I am a **Principal SQL Server Architect and Senior SQL Server DBA with 25 years of experience** designing, administering, optimizing, and modernizing enterprise database platforms across on-premises, Azure, AWS, and hybrid environments.
 
-My expertise includes:
+My work focuses on turning complex database operations into **reliable, observable, automated, and evidence-driven engineering systems**.
 
-- SQL Server 2016 / 2019 / 2022
-- Azure SQL Managed Instance
-- Azure SQL Database
-- Always On Availability Groups
-- Disaster Recovery & Business Continuity
-- Performance Engineering
-- Observability & Monitoring
-- DBA Automation
-- Cloud Database Modernization
+### Core Specialties
+
+- SQL Server architecture, administration, and performance engineering
+- Query Store tuning, plan stability, and parameter-sensitivity analysis
+- Always On Availability Groups, HA/DR, and business continuity
+- Azure SQL Database, Azure SQL Managed Instance, and AWS RDS
+- Extended Events, execution-plan analysis, and root-cause investigation
+- VLDB maintenance orchestration and resumable operations
+- Database observability, SRE practices, and operational automation
+- AI-assisted database assessment and diagnostic engineering
+
+---
+
+## Flagship Engineering Projects
+
+| Project | Engineering Focus |
+|---|---|
+| **[Agentic AI RCA Toolkit for SQL Server](https://github.com/lachungo/agentic-ai-rca-toolkit)** | SQL Server flight recorder correlating CPU, blocking, I/O, memory, TempDB, transaction-log, and connectivity evidence. Preserves strict lineage between an execution, its runtime parameters, matching actual execution plan, findings, and root-cause classification. |
+| **[SQL Server VLDB Index Maintenance Framework](https://github.com/lachungo/sql-server-vldb-index-maintenance-framework)** | Queue-based maintenance orchestration for multi-terabyte SQL Server estates, including AG-aware execution, resumable maintenance windows, storage guardrails, observability, and recovery workflows. |
+| **[Agentic AI DBA Assessment Toolkit](https://github.com/lachungo/SQL-Server-Agentic-AI-DBA-Assessment-Toolkit)** | Automated SQL Server health, security, configuration, availability, and performance assessments with technical and executive reporting. |
+| **[SQL Server Observability and DBA SRE Toolkit](https://github.com/lachungo/SQL-Server-Observability-and-DBA-SRE-Toolkit)** | Enterprise monitoring, alerting, Always On observability, root-cause analysis, and operational intelligence. |
+| **[SQL Server CPU Saturation RCA](https://github.com/lachungo/sql-server-cpu-saturation-rca)** | Evidence-driven CPU troubleshooting using scheduler pressure, waits, workload correlation, query activity, and performance diagnostics. |
+| **[SQL Server Engineering Portfolio](https://github.com/lachungo/sql-server-portfolio)** | Central portfolio of SQL Server architecture, automation, performance engineering, observability, and cloud database projects. |
+
+---
+
+## Selected Engineering Impact
+
+- Improved representative SQL Server workloads by **97.6% and 99.7%** through parameter-sensitivity analysis, plan reuse, and controlled performance validation.
+- Reduced representative TempDB allocation by **96.9%** during stored-procedure optimization.
+- Engineered a Query Store plan-stability approach using multi-metric comparison, last-known-good plan analysis, Automatic Plan Correction awareness, validation, rollback, and audit controls.
+- Designed a SQL Server flight recorder that correlates evidence across **seven performance domains** instead of treating independent monitoring alerts as root causes.
+- Built resumable, window-aware, and storage-aware maintenance orchestration for multi-terabyte SQL Server environments.
+- Investigated large-scale SQL connectivity, session, workload, and replication architectures across enterprise environments.
+
+---
+
+## SQL Server Flight Recorder Architecture
+
+The Agentic AI RCA Toolkit investigates seven correlated evidence domains:
+
+| Evidence domain | Investigation focus |
+|---|---|
+| CPU and scheduler pressure | Runnable workload, worker pressure, CPU-intensive executions |
+| Blocking and waits | Blocker chains, wait duration, impacted sessions |
+| I/O and storage latency | Read/write latency, physical activity, file pressure |
+| Memory grants and spills | Grant pressure, cardinality issues, runtime spills |
+| TempDB pressure | Allocation activity, spills, contention, file utilization |
+| Transaction-log pressure | Log utilization, growth, reuse waits, long transactions |
+| Connectivity pressure | Failed connections, latency, resets, and session evidence |
+
+The investigation preserves the evidence chain:
+
+> **Incident window → captured execution → runtime parameters → matching execution plan → plan findings → causal classification**
+
+---
+
+## Technology Focus
+
+`SQL Server 2016–2022` · `T-SQL` · `Query Store` · `Extended Events`  
+`Always On Availability Groups` · `Azure SQL` · `AWS RDS`  
+`Execution Plans` · `Performance Tuning` · `HA/DR` · `Database Reliability`  
+`PowerShell` · `Ansible` · `GitHub Actions` · `AI-Driven Automation`
 
 ---
 
 ## Certifications
 
-### Cloud & Modern Data Platforms
-
-- Microsoft Azure Fundamentals (AZ-900)
-- Microsoft Azure Database Administrator Associate (DP-300)
-- AWS Certified Cloud Practitioner (CLF-C02)
-- Snowflake Administration (COF-C02)
-- Mastering SQL Server on AWS Redshift Associate
-
-### Microsoft SQL Server Certifications
-
-- MCITP – SQL Server DBA
-- MCSE – SQL Server DBA
-- MCSA – SQL Server DBA
-- MCDBA – SQL Server DBA
-
----
-
-## Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| [SQL Server Portfolio](https://github.com/lachungo/sql-server-portfolio) | Central portfolio showcasing architecture, automation, observability, and cloud database projects |
-| [SQL Server VLDB Index Maintenance & Orchestration Platform](https://github.com/lachungo/sql-server-vldb-index-maintenance-framework) | Queue-based maintenance orchestration platform for multi-terabyte SQL Server environments featuring AG-aware execution, resumable maintenance windows, observability, and recovery workflows |
-| [SQL Server Agentic AI DBA Assessment Toolkit](https://github.com/lachungo/SQL-Server-Agentic-AI-DBA-Assessment-Toolkit) | AI-powered SQL Server assessment, health checks, security reviews, and executive reporting |
-| [SQL Server Observability & DBA SRE Toolkit](https://github.com/lachungo/SQL-Server-Observability-and-DBA-SRE-Toolkit) | Enterprise monitoring, alerting, Always On observability, RCA, and operational intelligence |
-| [SQL Server CPU Saturation RCA](https://github.com/lachungo/sql-server-cpu-saturation-rca) | Advanced CPU troubleshooting, wait analysis, workload correlation, and performance diagnostics |
-| [SQL IT Tech Solutions Website](https://github.com/lachungo/sql-it-techsolutions-website) | Professional consulting, architecture, cloud database, and portfolio website |
+- Microsoft Certified: Azure Database Administrator Associate — **DP-300**
+- Microsoft Certified: Azure Fundamentals — **AZ-900**
+- AWS Certified Cloud Practitioner — **CLF-C02**
+- Microsoft Certified IT Professional — SQL Server DBA
+- Microsoft Certified Solutions Expert — SQL Server
+- Microsoft Certified Solutions Associate — SQL Server
+- Microsoft Certified Database Administrator — SQL Server
 
 ---
 
 ## Professional Links
 
-| Platform | Link |
-|----------|------|
-| 🌐 Website | https://sql-it-techsolutions.com |
-| 💼 LinkedIn | https://www.linkedin.com/in/louis-achungo |
-| 📂 GitHub Portfolio | https://github.com/lachungo/sql-server-portfolio |
-| 🏗️ GitHub Profile | https://github.com/lachungo |
+- **Portfolio:** [sql-it-techsolutions.com](https://sql-it-techsolutions.com/)
+- **LinkedIn:** [linkedin.com/in/louis-achungo](https://www.linkedin.com/in/louis-achungo/)
+- **GitHub:** [github.com/lachungo](https://github.com/lachungo)
+- **Email:** [achungolm@gmail.com](mailto:achungolm@gmail.com)
 
 ---
 
-## Modern Database Engineering
+<div align="center">
 
-Modern database platforms should be reliable, observable, automated, secure, and scalable.
+### Monitoring shows that something happened.  
+### Engineering explains what happened, why it mattered, and what evidence supports the conclusion.
 
-My focus is helping organizations transform traditional database operations into modern, resilient, cloud-ready data platforms through architecture, automation, performance engineering, and operational excellence.
-
----
-
-*"Building reliable, observable, and scalable database platforms through architecture, automation, and operational excellence."*
+</div>
