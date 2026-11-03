@@ -60,7 +60,7 @@ My work focuses on turning complex database operations into **reliable, observab
 
 ## SQL Server Flight Recorder Architecture
 
-The Agentic AI RCA Toolkit investigates seven correlated evidence domains:
+The Agentic AI RCA Toolkit investigates seven correlated evidence domains: 
 
 | Evidence domain | Investigation focus |
 |---|---|
@@ -76,6 +76,8 @@ The investigation preserves the evidence chain:
 
 > **Incident window → captured execution → runtime parameters → matching execution plan → plan findings → causal classification**
 
+**Roadmap:** An MCP-based AI agent layer, now in development, will interpret this evidence, reason across performance domains, explain root causes, and recommend corrective actions.
+
 ---
 
 ## Technology Focus
@@ -83,7 +85,7 @@ The investigation preserves the evidence chain:
 `SQL Server 2016–2022` · `T-SQL` · `Query Store` · `Extended Events`  
 `Always On Availability Groups` · `Azure SQL` · `AWS RDS`  
 `Execution Plans` · `Performance Tuning` · `HA/DR` · `Database Reliability`  
-`PowerShell` · `Ansible` · `GitHub Actions` · `AI-Driven Automation`
+`PowerShell` · `GitHub Actions` · `AI-Driven Automation`
 
 ---
 
