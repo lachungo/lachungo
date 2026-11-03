@@ -2,7 +2,7 @@
 
 # Louis Achungo
 
-### Principal SQL Server Architect · Senior SQL Server DBA · Database Reliability Engineer
+### Senior SQL Server DBA · SQL Server Architect · Database Reliability Engineer
 
 **SQL Server Performance Engineering · Azure SQL & AWS RDS · HA/DR · Observability · AI-Driven Database Automation**
 
@@ -16,7 +16,7 @@
 
 ## Engineering Profile
 
-I am a **Principal SQL Server Architect and Senior SQL Server DBA with 25 years of experience** designing, administering, optimizing, and modernizing enterprise database platforms across on-premises, Azure, AWS, and hybrid environments.
+I am a **Senior SQL Server DBA and SQL Server Architect with 25 years of experience** designing, administering, optimizing, and modernizing enterprise database platforms across on-premises, Azure, AWS, and hybrid environments.
 
 My work focuses on turning complex database operations into **reliable, observable, automated, and evidence-driven engineering systems**.
 
@@ -60,7 +60,7 @@ My work focuses on turning complex database operations into **reliable, observab
 
 ## SQL Server Flight Recorder Architecture
 
-The Agentic AI RCA Toolkit investigates seven correlated evidence domains: 
+The Agentic AI RCA Toolkit investigates seven correlated evidence domains:
 
 | Evidence domain | Investigation focus |
 |---|---|
@@ -82,7 +82,7 @@ The investigation preserves the evidence chain:
 
 ## Technology Focus
 
-`SQL Server 2016–2022` · `T-SQL` · `Query Store` · `Extended Events`  
+`SQL Server 2012–2025` · `T-SQL` · `Query Store` · `Extended Events`  
 `Always On Availability Groups` · `Azure SQL` · `AWS RDS`  
 `Execution Plans` · `Performance Tuning` · `HA/DR` · `Database Reliability`  
 `PowerShell` · `GitHub Actions` · `AI-Driven Automation`
