@@ -39,6 +39,7 @@ My work focuses on turning complex database operations into **reliable, observab
 | Project | Engineering Focus |
 |---|---|
 | **[Agentic AI RCA Toolkit for SQL Server](https://github.com/lachungo/agentic-ai-rca-toolkit)** | SQL Server flight recorder correlating CPU, blocking, I/O, memory, TempDB, transaction-log, and connectivity evidence. Preserves strict lineage between an execution, its runtime parameters, matching actual execution plan, findings, and root-cause classification. |
+| [Self-Healing Transactional Replication](https://github.com/lachungo/sql-server-self-healing-replication) | Self-measuring, self-healing replication framework: tracer-token latency SLO, row-level repair of 20598 and 2627/2601 judged by the publisher, silent-drift detection with a tracer-token barrier, timed chaos tests, and verdict-first reports. [Live reports](https://lachungo.github.io/sql-server-self-healing-replication/) · [Article](https://www.linkedin.com/pulse/how-i-built-self-healing-transactional-replication-sql-louis-achungo-c45xe/) |
 | **[SQL Server VLDB Index Maintenance Framework](https://github.com/lachungo/sql-server-vldb-index-maintenance-framework)** | Queue-based maintenance orchestration for multi-terabyte SQL Server estates, including AG-aware execution, resumable maintenance windows, storage guardrails, observability, and recovery workflows. |
 | **[Agentic AI DBA Assessment Toolkit](https://github.com/lachungo/SQL-Server-Agentic-AI-DBA-Assessment-Toolkit)** | Automated SQL Server health, security, configuration, availability, and performance assessments with technical and executive reporting. |
 | **[SQL Server Observability and DBA SRE Toolkit](https://github.com/lachungo/SQL-Server-Observability-and-DBA-SRE-Toolkit)** | Enterprise monitoring, alerting, Always On observability, root-cause analysis, and operational intelligence. |
@@ -55,6 +56,7 @@ My work focuses on turning complex database operations into **reliable, observab
 - Designed a SQL Server flight recorder that correlates evidence across **seven performance domains** instead of treating independent monitoring alerts as root causes.
 - Built resumable, window-aware, and storage-aware maintenance orchestration for multi-terabyte SQL Server environments.
 - Investigated large-scale SQL connectivity, session, workload, and replication architectures across enterprise environments.
+- Built self-healing transactional replication that detected, repaired and verified **4 of 4** injected faults automatically within target, held a 30-second latency SLO **99.6%** of the time, and caught silent drift with **zero false alarms**.
 
 ---
 
@@ -86,6 +88,7 @@ The investigation preserves the evidence chain:
 `Always On Availability Groups` · `Azure SQL` · `AWS RDS`  
 `Execution Plans` · `Performance Tuning` · `HA/DR` · `Database Reliability`  
 `PowerShell` · `GitHub Actions` · `AI-Driven Automation`
+`Transactional Replication` to the line with Always On Availability Groups
 
 ---
 
